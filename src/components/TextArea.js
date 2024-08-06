@@ -22,7 +22,7 @@ export default function TextArea(props) {
 
     return (
         <>
-            <div className={`container my-3`}>
+            <div className="container my-3">
                 <h1>
                     Enter Your Text To Analyze
                     <button className='btn btn-danger ms-3' onClick={ClearAll}>Clear</button>
